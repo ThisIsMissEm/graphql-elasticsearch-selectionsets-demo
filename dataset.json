@@ -1,0 +1,4949 @@
+{
+  "data": {
+    "allPeople": {
+      "people": [
+        {
+          "id": "cGVvcGxlOjE=",
+          "name": "Luke Skywalker",
+          "birthYear": "19BBY",
+          "eyeColor": "blue",
+          "hairColor": "blond",
+          "height": 172,
+          "mass": 77,
+          "homeworld": {
+            "id": "cGxhbmV0czox",
+            "name": "Tatooine",
+            "population": 200000
+          },
+          "species": {
+            "name": "Human",
+            "designation": "sentient",
+            "classification": "mammal",
+            "id": "c3BlY2llczox",
+            "averageHeight": 180,
+            "averageLifespan": 120,
+            "language": "Galactic Basic",
+            "homeworld": {
+              "id": "cGxhbmV0czo5",
+              "name": "Coruscant",
+              "population": 1000000000000
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6MQ==",
+                "episodeID": 4,
+                "director": "George Lucas",
+                "producers": [
+                  "Gary Kurtz",
+                  "Rick McCallum"
+                ],
+                "title": "A New Hope",
+                "releaseDate": "1977-05-25"
+              },
+              {
+                "id": "ZmlsbXM6Mg==",
+                "episodeID": 5,
+                "director": "Irvin Kershner",
+                "producers": [
+                  "Gary Kurtz",
+                  "Rick McCallum"
+                ],
+                "title": "The Empire Strikes Back",
+                "releaseDate": "1980-05-17"
+              },
+              {
+                "id": "ZmlsbXM6Mw==",
+                "episodeID": 6,
+                "director": "Richard Marquand",
+                "producers": [
+                  "Howard G. Kazanjian",
+                  "George Lucas",
+                  "Rick McCallum"
+                ],
+                "title": "Return of the Jedi",
+                "releaseDate": "1983-05-25"
+              },
+              {
+                "id": "ZmlsbXM6Ng==",
+                "episodeID": 3,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Revenge of the Sith",
+                "releaseDate": "2005-05-19"
+              },
+              {
+                "id": "ZmlsbXM6Nw==",
+                "episodeID": 7,
+                "director": "J. J. Abrams",
+                "producers": [
+                  "Kathleen Kennedy",
+                  "J. J. Abrams",
+                  "Bryan Burk"
+                ],
+                "title": "The Force Awakens",
+                "releaseDate": "2015-12-11"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": [
+              {
+                "id": "dmVoaWNsZXM6MTQ=",
+                "name": "Snowspeeder",
+                "crew": "2",
+                "manufacturers": [
+                  "Incom corporation"
+                ],
+                "cargoCapacity": 10,
+                "costInCredits": null,
+                "vehicleClass": "airspeeder"
+              },
+              {
+                "id": "dmVoaWNsZXM6MzA=",
+                "name": "Imperial Speeder Bike",
+                "crew": "1",
+                "manufacturers": [
+                  "Aratech Repulsor Company"
+                ],
+                "cargoCapacity": 4,
+                "costInCredits": 8000,
+                "vehicleClass": "speeder"
+              }
+            ]
+          }
+        },
+        {
+          "id": "cGVvcGxlOjI=",
+          "name": "C-3PO",
+          "birthYear": "112BBY",
+          "eyeColor": "yellow",
+          "hairColor": "n/a",
+          "height": 167,
+          "mass": 75,
+          "homeworld": {
+            "id": "cGxhbmV0czox",
+            "name": "Tatooine",
+            "population": 200000
+          },
+          "species": {
+            "name": "Droid",
+            "designation": "sentient",
+            "classification": "artificial",
+            "id": "c3BlY2llczoy",
+            "averageHeight": null,
+            "averageLifespan": null,
+            "language": "n/a",
+            "homeworld": null
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6MQ==",
+                "episodeID": 4,
+                "director": "George Lucas",
+                "producers": [
+                  "Gary Kurtz",
+                  "Rick McCallum"
+                ],
+                "title": "A New Hope",
+                "releaseDate": "1977-05-25"
+              },
+              {
+                "id": "ZmlsbXM6Mg==",
+                "episodeID": 5,
+                "director": "Irvin Kershner",
+                "producers": [
+                  "Gary Kurtz",
+                  "Rick McCallum"
+                ],
+                "title": "The Empire Strikes Back",
+                "releaseDate": "1980-05-17"
+              },
+              {
+                "id": "ZmlsbXM6Mw==",
+                "episodeID": 6,
+                "director": "Richard Marquand",
+                "producers": [
+                  "Howard G. Kazanjian",
+                  "George Lucas",
+                  "Rick McCallum"
+                ],
+                "title": "Return of the Jedi",
+                "releaseDate": "1983-05-25"
+              },
+              {
+                "id": "ZmlsbXM6NA==",
+                "episodeID": 1,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "The Phantom Menace",
+                "releaseDate": "1999-05-19"
+              },
+              {
+                "id": "ZmlsbXM6NQ==",
+                "episodeID": 2,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Attack of the Clones",
+                "releaseDate": "2002-05-16"
+              },
+              {
+                "id": "ZmlsbXM6Ng==",
+                "episodeID": 3,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Revenge of the Sith",
+                "releaseDate": "2005-05-19"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjM=",
+          "name": "R2-D2",
+          "birthYear": "33BBY",
+          "eyeColor": "red",
+          "hairColor": "n/a",
+          "height": 96,
+          "mass": 32,
+          "homeworld": {
+            "id": "cGxhbmV0czo4",
+            "name": "Naboo",
+            "population": 4500000000
+          },
+          "species": {
+            "name": "Droid",
+            "designation": "sentient",
+            "classification": "artificial",
+            "id": "c3BlY2llczoy",
+            "averageHeight": null,
+            "averageLifespan": null,
+            "language": "n/a",
+            "homeworld": null
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6MQ==",
+                "episodeID": 4,
+                "director": "George Lucas",
+                "producers": [
+                  "Gary Kurtz",
+                  "Rick McCallum"
+                ],
+                "title": "A New Hope",
+                "releaseDate": "1977-05-25"
+              },
+              {
+                "id": "ZmlsbXM6Mg==",
+                "episodeID": 5,
+                "director": "Irvin Kershner",
+                "producers": [
+                  "Gary Kurtz",
+                  "Rick McCallum"
+                ],
+                "title": "The Empire Strikes Back",
+                "releaseDate": "1980-05-17"
+              },
+              {
+                "id": "ZmlsbXM6Mw==",
+                "episodeID": 6,
+                "director": "Richard Marquand",
+                "producers": [
+                  "Howard G. Kazanjian",
+                  "George Lucas",
+                  "Rick McCallum"
+                ],
+                "title": "Return of the Jedi",
+                "releaseDate": "1983-05-25"
+              },
+              {
+                "id": "ZmlsbXM6NA==",
+                "episodeID": 1,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "The Phantom Menace",
+                "releaseDate": "1999-05-19"
+              },
+              {
+                "id": "ZmlsbXM6NQ==",
+                "episodeID": 2,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Attack of the Clones",
+                "releaseDate": "2002-05-16"
+              },
+              {
+                "id": "ZmlsbXM6Ng==",
+                "episodeID": 3,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Revenge of the Sith",
+                "releaseDate": "2005-05-19"
+              },
+              {
+                "id": "ZmlsbXM6Nw==",
+                "episodeID": 7,
+                "director": "J. J. Abrams",
+                "producers": [
+                  "Kathleen Kennedy",
+                  "J. J. Abrams",
+                  "Bryan Burk"
+                ],
+                "title": "The Force Awakens",
+                "releaseDate": "2015-12-11"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjQ=",
+          "name": "Darth Vader",
+          "birthYear": "41.9BBY",
+          "eyeColor": "yellow",
+          "hairColor": "none",
+          "height": 202,
+          "mass": 136,
+          "homeworld": {
+            "id": "cGxhbmV0czox",
+            "name": "Tatooine",
+            "population": 200000
+          },
+          "species": {
+            "name": "Human",
+            "designation": "sentient",
+            "classification": "mammal",
+            "id": "c3BlY2llczox",
+            "averageHeight": 180,
+            "averageLifespan": 120,
+            "language": "Galactic Basic",
+            "homeworld": {
+              "id": "cGxhbmV0czo5",
+              "name": "Coruscant",
+              "population": 1000000000000
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6MQ==",
+                "episodeID": 4,
+                "director": "George Lucas",
+                "producers": [
+                  "Gary Kurtz",
+                  "Rick McCallum"
+                ],
+                "title": "A New Hope",
+                "releaseDate": "1977-05-25"
+              },
+              {
+                "id": "ZmlsbXM6Mg==",
+                "episodeID": 5,
+                "director": "Irvin Kershner",
+                "producers": [
+                  "Gary Kurtz",
+                  "Rick McCallum"
+                ],
+                "title": "The Empire Strikes Back",
+                "releaseDate": "1980-05-17"
+              },
+              {
+                "id": "ZmlsbXM6Mw==",
+                "episodeID": 6,
+                "director": "Richard Marquand",
+                "producers": [
+                  "Howard G. Kazanjian",
+                  "George Lucas",
+                  "Rick McCallum"
+                ],
+                "title": "Return of the Jedi",
+                "releaseDate": "1983-05-25"
+              },
+              {
+                "id": "ZmlsbXM6Ng==",
+                "episodeID": 3,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Revenge of the Sith",
+                "releaseDate": "2005-05-19"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjU=",
+          "name": "Leia Organa",
+          "birthYear": "19BBY",
+          "eyeColor": "brown",
+          "hairColor": "brown",
+          "height": 150,
+          "mass": 49,
+          "homeworld": {
+            "id": "cGxhbmV0czoy",
+            "name": "Alderaan",
+            "population": 2000000000
+          },
+          "species": {
+            "name": "Human",
+            "designation": "sentient",
+            "classification": "mammal",
+            "id": "c3BlY2llczox",
+            "averageHeight": 180,
+            "averageLifespan": 120,
+            "language": "Galactic Basic",
+            "homeworld": {
+              "id": "cGxhbmV0czo5",
+              "name": "Coruscant",
+              "population": 1000000000000
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6MQ==",
+                "episodeID": 4,
+                "director": "George Lucas",
+                "producers": [
+                  "Gary Kurtz",
+                  "Rick McCallum"
+                ],
+                "title": "A New Hope",
+                "releaseDate": "1977-05-25"
+              },
+              {
+                "id": "ZmlsbXM6Mg==",
+                "episodeID": 5,
+                "director": "Irvin Kershner",
+                "producers": [
+                  "Gary Kurtz",
+                  "Rick McCallum"
+                ],
+                "title": "The Empire Strikes Back",
+                "releaseDate": "1980-05-17"
+              },
+              {
+                "id": "ZmlsbXM6Mw==",
+                "episodeID": 6,
+                "director": "Richard Marquand",
+                "producers": [
+                  "Howard G. Kazanjian",
+                  "George Lucas",
+                  "Rick McCallum"
+                ],
+                "title": "Return of the Jedi",
+                "releaseDate": "1983-05-25"
+              },
+              {
+                "id": "ZmlsbXM6Ng==",
+                "episodeID": 3,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Revenge of the Sith",
+                "releaseDate": "2005-05-19"
+              },
+              {
+                "id": "ZmlsbXM6Nw==",
+                "episodeID": 7,
+                "director": "J. J. Abrams",
+                "producers": [
+                  "Kathleen Kennedy",
+                  "J. J. Abrams",
+                  "Bryan Burk"
+                ],
+                "title": "The Force Awakens",
+                "releaseDate": "2015-12-11"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": [
+              {
+                "id": "dmVoaWNsZXM6MzA=",
+                "name": "Imperial Speeder Bike",
+                "crew": "1",
+                "manufacturers": [
+                  "Aratech Repulsor Company"
+                ],
+                "cargoCapacity": 4,
+                "costInCredits": 8000,
+                "vehicleClass": "speeder"
+              }
+            ]
+          }
+        },
+        {
+          "id": "cGVvcGxlOjY=",
+          "name": "Owen Lars",
+          "birthYear": "52BBY",
+          "eyeColor": "blue",
+          "hairColor": "brown, grey",
+          "height": 178,
+          "mass": 120,
+          "homeworld": {
+            "id": "cGxhbmV0czox",
+            "name": "Tatooine",
+            "population": 200000
+          },
+          "species": {
+            "name": "Human",
+            "designation": "sentient",
+            "classification": "mammal",
+            "id": "c3BlY2llczox",
+            "averageHeight": 180,
+            "averageLifespan": 120,
+            "language": "Galactic Basic",
+            "homeworld": {
+              "id": "cGxhbmV0czo5",
+              "name": "Coruscant",
+              "population": 1000000000000
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6MQ==",
+                "episodeID": 4,
+                "director": "George Lucas",
+                "producers": [
+                  "Gary Kurtz",
+                  "Rick McCallum"
+                ],
+                "title": "A New Hope",
+                "releaseDate": "1977-05-25"
+              },
+              {
+                "id": "ZmlsbXM6NQ==",
+                "episodeID": 2,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Attack of the Clones",
+                "releaseDate": "2002-05-16"
+              },
+              {
+                "id": "ZmlsbXM6Ng==",
+                "episodeID": 3,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Revenge of the Sith",
+                "releaseDate": "2005-05-19"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjc=",
+          "name": "Beru Whitesun lars",
+          "birthYear": "47BBY",
+          "eyeColor": "blue",
+          "hairColor": "brown",
+          "height": 165,
+          "mass": 75,
+          "homeworld": {
+            "id": "cGxhbmV0czox",
+            "name": "Tatooine",
+            "population": 200000
+          },
+          "species": {
+            "name": "Human",
+            "designation": "sentient",
+            "classification": "mammal",
+            "id": "c3BlY2llczox",
+            "averageHeight": 180,
+            "averageLifespan": 120,
+            "language": "Galactic Basic",
+            "homeworld": {
+              "id": "cGxhbmV0czo5",
+              "name": "Coruscant",
+              "population": 1000000000000
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6MQ==",
+                "episodeID": 4,
+                "director": "George Lucas",
+                "producers": [
+                  "Gary Kurtz",
+                  "Rick McCallum"
+                ],
+                "title": "A New Hope",
+                "releaseDate": "1977-05-25"
+              },
+              {
+                "id": "ZmlsbXM6NQ==",
+                "episodeID": 2,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Attack of the Clones",
+                "releaseDate": "2002-05-16"
+              },
+              {
+                "id": "ZmlsbXM6Ng==",
+                "episodeID": 3,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Revenge of the Sith",
+                "releaseDate": "2005-05-19"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjg=",
+          "name": "R5-D4",
+          "birthYear": "unknown",
+          "eyeColor": "red",
+          "hairColor": "n/a",
+          "height": 97,
+          "mass": 32,
+          "homeworld": {
+            "id": "cGxhbmV0czox",
+            "name": "Tatooine",
+            "population": 200000
+          },
+          "species": {
+            "name": "Droid",
+            "designation": "sentient",
+            "classification": "artificial",
+            "id": "c3BlY2llczoy",
+            "averageHeight": null,
+            "averageLifespan": null,
+            "language": "n/a",
+            "homeworld": null
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6MQ==",
+                "episodeID": 4,
+                "director": "George Lucas",
+                "producers": [
+                  "Gary Kurtz",
+                  "Rick McCallum"
+                ],
+                "title": "A New Hope",
+                "releaseDate": "1977-05-25"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjk=",
+          "name": "Biggs Darklighter",
+          "birthYear": "24BBY",
+          "eyeColor": "brown",
+          "hairColor": "black",
+          "height": 183,
+          "mass": 84,
+          "homeworld": {
+            "id": "cGxhbmV0czox",
+            "name": "Tatooine",
+            "population": 200000
+          },
+          "species": {
+            "name": "Human",
+            "designation": "sentient",
+            "classification": "mammal",
+            "id": "c3BlY2llczox",
+            "averageHeight": 180,
+            "averageLifespan": 120,
+            "language": "Galactic Basic",
+            "homeworld": {
+              "id": "cGxhbmV0czo5",
+              "name": "Coruscant",
+              "population": 1000000000000
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6MQ==",
+                "episodeID": 4,
+                "director": "George Lucas",
+                "producers": [
+                  "Gary Kurtz",
+                  "Rick McCallum"
+                ],
+                "title": "A New Hope",
+                "releaseDate": "1977-05-25"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjEw",
+          "name": "Obi-Wan Kenobi",
+          "birthYear": "57BBY",
+          "eyeColor": "blue-gray",
+          "hairColor": "auburn, white",
+          "height": 182,
+          "mass": 77,
+          "homeworld": {
+            "id": "cGxhbmV0czoyMA==",
+            "name": "Stewjon",
+            "population": null
+          },
+          "species": {
+            "name": "Human",
+            "designation": "sentient",
+            "classification": "mammal",
+            "id": "c3BlY2llczox",
+            "averageHeight": 180,
+            "averageLifespan": 120,
+            "language": "Galactic Basic",
+            "homeworld": {
+              "id": "cGxhbmV0czo5",
+              "name": "Coruscant",
+              "population": 1000000000000
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6MQ==",
+                "episodeID": 4,
+                "director": "George Lucas",
+                "producers": [
+                  "Gary Kurtz",
+                  "Rick McCallum"
+                ],
+                "title": "A New Hope",
+                "releaseDate": "1977-05-25"
+              },
+              {
+                "id": "ZmlsbXM6Mg==",
+                "episodeID": 5,
+                "director": "Irvin Kershner",
+                "producers": [
+                  "Gary Kurtz",
+                  "Rick McCallum"
+                ],
+                "title": "The Empire Strikes Back",
+                "releaseDate": "1980-05-17"
+              },
+              {
+                "id": "ZmlsbXM6Mw==",
+                "episodeID": 6,
+                "director": "Richard Marquand",
+                "producers": [
+                  "Howard G. Kazanjian",
+                  "George Lucas",
+                  "Rick McCallum"
+                ],
+                "title": "Return of the Jedi",
+                "releaseDate": "1983-05-25"
+              },
+              {
+                "id": "ZmlsbXM6NA==",
+                "episodeID": 1,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "The Phantom Menace",
+                "releaseDate": "1999-05-19"
+              },
+              {
+                "id": "ZmlsbXM6NQ==",
+                "episodeID": 2,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Attack of the Clones",
+                "releaseDate": "2002-05-16"
+              },
+              {
+                "id": "ZmlsbXM6Ng==",
+                "episodeID": 3,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Revenge of the Sith",
+                "releaseDate": "2005-05-19"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": [
+              {
+                "id": "dmVoaWNsZXM6Mzg=",
+                "name": "Tribubble bongo",
+                "crew": "1",
+                "manufacturers": [
+                  "Otoh Gunga Bongameken Cooperative"
+                ],
+                "cargoCapacity": 1600,
+                "costInCredits": null,
+                "vehicleClass": "submarine"
+              }
+            ]
+          }
+        },
+        {
+          "id": "cGVvcGxlOjEx",
+          "name": "Anakin Skywalker",
+          "birthYear": "41.9BBY",
+          "eyeColor": "blue",
+          "hairColor": "blond",
+          "height": 188,
+          "mass": 84,
+          "homeworld": {
+            "id": "cGxhbmV0czox",
+            "name": "Tatooine",
+            "population": 200000
+          },
+          "species": {
+            "name": "Human",
+            "designation": "sentient",
+            "classification": "mammal",
+            "id": "c3BlY2llczox",
+            "averageHeight": 180,
+            "averageLifespan": 120,
+            "language": "Galactic Basic",
+            "homeworld": {
+              "id": "cGxhbmV0czo5",
+              "name": "Coruscant",
+              "population": 1000000000000
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6NA==",
+                "episodeID": 1,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "The Phantom Menace",
+                "releaseDate": "1999-05-19"
+              },
+              {
+                "id": "ZmlsbXM6NQ==",
+                "episodeID": 2,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Attack of the Clones",
+                "releaseDate": "2002-05-16"
+              },
+              {
+                "id": "ZmlsbXM6Ng==",
+                "episodeID": 3,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Revenge of the Sith",
+                "releaseDate": "2005-05-19"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": [
+              {
+                "id": "dmVoaWNsZXM6NDQ=",
+                "name": "Zephyr-G swoop bike",
+                "crew": "1",
+                "manufacturers": [
+                  "Mobquet Swoops and Speeders"
+                ],
+                "cargoCapacity": 200,
+                "costInCredits": 5750,
+                "vehicleClass": "repulsorcraft"
+              },
+              {
+                "id": "dmVoaWNsZXM6NDY=",
+                "name": "XJ-6 airspeeder",
+                "crew": "1",
+                "manufacturers": [
+                  "Narglatch AirTech prefabricated kit"
+                ],
+                "cargoCapacity": null,
+                "costInCredits": null,
+                "vehicleClass": "airspeeder"
+              }
+            ]
+          }
+        },
+        {
+          "id": "cGVvcGxlOjEy",
+          "name": "Wilhuff Tarkin",
+          "birthYear": "64BBY",
+          "eyeColor": "blue",
+          "hairColor": "auburn, grey",
+          "height": 180,
+          "mass": null,
+          "homeworld": {
+            "id": "cGxhbmV0czoyMQ==",
+            "name": "Eriadu",
+            "population": 22000000000
+          },
+          "species": {
+            "name": "Human",
+            "designation": "sentient",
+            "classification": "mammal",
+            "id": "c3BlY2llczox",
+            "averageHeight": 180,
+            "averageLifespan": 120,
+            "language": "Galactic Basic",
+            "homeworld": {
+              "id": "cGxhbmV0czo5",
+              "name": "Coruscant",
+              "population": 1000000000000
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6MQ==",
+                "episodeID": 4,
+                "director": "George Lucas",
+                "producers": [
+                  "Gary Kurtz",
+                  "Rick McCallum"
+                ],
+                "title": "A New Hope",
+                "releaseDate": "1977-05-25"
+              },
+              {
+                "id": "ZmlsbXM6Ng==",
+                "episodeID": 3,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Revenge of the Sith",
+                "releaseDate": "2005-05-19"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjEz",
+          "name": "Chewbacca",
+          "birthYear": "200BBY",
+          "eyeColor": "blue",
+          "hairColor": "brown",
+          "height": 228,
+          "mass": 112,
+          "homeworld": {
+            "id": "cGxhbmV0czoxNA==",
+            "name": "Kashyyyk",
+            "population": 45000000
+          },
+          "species": {
+            "name": "Wookiee",
+            "designation": "sentient",
+            "classification": "mammal",
+            "id": "c3BlY2llczoz",
+            "averageHeight": 210,
+            "averageLifespan": 400,
+            "language": "Shyriiwook",
+            "homeworld": {
+              "id": "cGxhbmV0czoxNA==",
+              "name": "Kashyyyk",
+              "population": 45000000
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6MQ==",
+                "episodeID": 4,
+                "director": "George Lucas",
+                "producers": [
+                  "Gary Kurtz",
+                  "Rick McCallum"
+                ],
+                "title": "A New Hope",
+                "releaseDate": "1977-05-25"
+              },
+              {
+                "id": "ZmlsbXM6Mg==",
+                "episodeID": 5,
+                "director": "Irvin Kershner",
+                "producers": [
+                  "Gary Kurtz",
+                  "Rick McCallum"
+                ],
+                "title": "The Empire Strikes Back",
+                "releaseDate": "1980-05-17"
+              },
+              {
+                "id": "ZmlsbXM6Mw==",
+                "episodeID": 6,
+                "director": "Richard Marquand",
+                "producers": [
+                  "Howard G. Kazanjian",
+                  "George Lucas",
+                  "Rick McCallum"
+                ],
+                "title": "Return of the Jedi",
+                "releaseDate": "1983-05-25"
+              },
+              {
+                "id": "ZmlsbXM6Ng==",
+                "episodeID": 3,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Revenge of the Sith",
+                "releaseDate": "2005-05-19"
+              },
+              {
+                "id": "ZmlsbXM6Nw==",
+                "episodeID": 7,
+                "director": "J. J. Abrams",
+                "producers": [
+                  "Kathleen Kennedy",
+                  "J. J. Abrams",
+                  "Bryan Burk"
+                ],
+                "title": "The Force Awakens",
+                "releaseDate": "2015-12-11"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": [
+              {
+                "id": "dmVoaWNsZXM6MTk=",
+                "name": "AT-ST",
+                "crew": "2",
+                "manufacturers": [
+                  "Kuat Drive Yards",
+                  "Imperial Department of Military Research"
+                ],
+                "cargoCapacity": 200,
+                "costInCredits": null,
+                "vehicleClass": "walker"
+              }
+            ]
+          }
+        },
+        {
+          "id": "cGVvcGxlOjE0",
+          "name": "Han Solo",
+          "birthYear": "29BBY",
+          "eyeColor": "brown",
+          "hairColor": "brown",
+          "height": 180,
+          "mass": 80,
+          "homeworld": {
+            "id": "cGxhbmV0czoyMg==",
+            "name": "Corellia",
+            "population": 3000000000
+          },
+          "species": {
+            "name": "Human",
+            "designation": "sentient",
+            "classification": "mammal",
+            "id": "c3BlY2llczox",
+            "averageHeight": 180,
+            "averageLifespan": 120,
+            "language": "Galactic Basic",
+            "homeworld": {
+              "id": "cGxhbmV0czo5",
+              "name": "Coruscant",
+              "population": 1000000000000
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6MQ==",
+                "episodeID": 4,
+                "director": "George Lucas",
+                "producers": [
+                  "Gary Kurtz",
+                  "Rick McCallum"
+                ],
+                "title": "A New Hope",
+                "releaseDate": "1977-05-25"
+              },
+              {
+                "id": "ZmlsbXM6Mg==",
+                "episodeID": 5,
+                "director": "Irvin Kershner",
+                "producers": [
+                  "Gary Kurtz",
+                  "Rick McCallum"
+                ],
+                "title": "The Empire Strikes Back",
+                "releaseDate": "1980-05-17"
+              },
+              {
+                "id": "ZmlsbXM6Mw==",
+                "episodeID": 6,
+                "director": "Richard Marquand",
+                "producers": [
+                  "Howard G. Kazanjian",
+                  "George Lucas",
+                  "Rick McCallum"
+                ],
+                "title": "Return of the Jedi",
+                "releaseDate": "1983-05-25"
+              },
+              {
+                "id": "ZmlsbXM6Nw==",
+                "episodeID": 7,
+                "director": "J. J. Abrams",
+                "producers": [
+                  "Kathleen Kennedy",
+                  "J. J. Abrams",
+                  "Bryan Burk"
+                ],
+                "title": "The Force Awakens",
+                "releaseDate": "2015-12-11"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjE1",
+          "name": "Greedo",
+          "birthYear": "44BBY",
+          "eyeColor": "black",
+          "hairColor": "n/a",
+          "height": 173,
+          "mass": 74,
+          "homeworld": {
+            "id": "cGxhbmV0czoyMw==",
+            "name": "Rodia",
+            "population": 1300000000
+          },
+          "species": {
+            "name": "Rodian",
+            "designation": "reptilian",
+            "classification": "sentient",
+            "id": "c3BlY2llczo0",
+            "averageHeight": 170,
+            "averageLifespan": null,
+            "language": "Galactic Basic",
+            "homeworld": {
+              "id": "cGxhbmV0czoyMw==",
+              "name": "Rodia",
+              "population": 1300000000
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6MQ==",
+                "episodeID": 4,
+                "director": "George Lucas",
+                "producers": [
+                  "Gary Kurtz",
+                  "Rick McCallum"
+                ],
+                "title": "A New Hope",
+                "releaseDate": "1977-05-25"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjE2",
+          "name": "Jabba Desilijic Tiure",
+          "birthYear": "600BBY",
+          "eyeColor": "orange",
+          "hairColor": "n/a",
+          "height": 175,
+          "mass": 1358,
+          "homeworld": {
+            "id": "cGxhbmV0czoyNA==",
+            "name": "Nal Hutta",
+            "population": 7000000000
+          },
+          "species": {
+            "name": "Hutt",
+            "designation": "sentient",
+            "classification": "gastropod",
+            "id": "c3BlY2llczo1",
+            "averageHeight": 300,
+            "averageLifespan": 1000,
+            "language": "Huttese",
+            "homeworld": {
+              "id": "cGxhbmV0czoyNA==",
+              "name": "Nal Hutta",
+              "population": 7000000000
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6MQ==",
+                "episodeID": 4,
+                "director": "George Lucas",
+                "producers": [
+                  "Gary Kurtz",
+                  "Rick McCallum"
+                ],
+                "title": "A New Hope",
+                "releaseDate": "1977-05-25"
+              },
+              {
+                "id": "ZmlsbXM6Mw==",
+                "episodeID": 6,
+                "director": "Richard Marquand",
+                "producers": [
+                  "Howard G. Kazanjian",
+                  "George Lucas",
+                  "Rick McCallum"
+                ],
+                "title": "Return of the Jedi",
+                "releaseDate": "1983-05-25"
+              },
+              {
+                "id": "ZmlsbXM6NA==",
+                "episodeID": 1,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "The Phantom Menace",
+                "releaseDate": "1999-05-19"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjE4",
+          "name": "Wedge Antilles",
+          "birthYear": "21BBY",
+          "eyeColor": "hazel",
+          "hairColor": "brown",
+          "height": 170,
+          "mass": 77,
+          "homeworld": {
+            "id": "cGxhbmV0czoyMg==",
+            "name": "Corellia",
+            "population": 3000000000
+          },
+          "species": {
+            "name": "Human",
+            "designation": "sentient",
+            "classification": "mammal",
+            "id": "c3BlY2llczox",
+            "averageHeight": 180,
+            "averageLifespan": 120,
+            "language": "Galactic Basic",
+            "homeworld": {
+              "id": "cGxhbmV0czo5",
+              "name": "Coruscant",
+              "population": 1000000000000
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6MQ==",
+                "episodeID": 4,
+                "director": "George Lucas",
+                "producers": [
+                  "Gary Kurtz",
+                  "Rick McCallum"
+                ],
+                "title": "A New Hope",
+                "releaseDate": "1977-05-25"
+              },
+              {
+                "id": "ZmlsbXM6Mg==",
+                "episodeID": 5,
+                "director": "Irvin Kershner",
+                "producers": [
+                  "Gary Kurtz",
+                  "Rick McCallum"
+                ],
+                "title": "The Empire Strikes Back",
+                "releaseDate": "1980-05-17"
+              },
+              {
+                "id": "ZmlsbXM6Mw==",
+                "episodeID": 6,
+                "director": "Richard Marquand",
+                "producers": [
+                  "Howard G. Kazanjian",
+                  "George Lucas",
+                  "Rick McCallum"
+                ],
+                "title": "Return of the Jedi",
+                "releaseDate": "1983-05-25"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": [
+              {
+                "id": "dmVoaWNsZXM6MTQ=",
+                "name": "Snowspeeder",
+                "crew": "2",
+                "manufacturers": [
+                  "Incom corporation"
+                ],
+                "cargoCapacity": 10,
+                "costInCredits": null,
+                "vehicleClass": "airspeeder"
+              }
+            ]
+          }
+        },
+        {
+          "id": "cGVvcGxlOjE5",
+          "name": "Jek Tono Porkins",
+          "birthYear": "unknown",
+          "eyeColor": "blue",
+          "hairColor": "brown",
+          "height": 180,
+          "mass": 110,
+          "homeworld": {
+            "id": "cGxhbmV0czoyNg==",
+            "name": "Bestine IV",
+            "population": 62000000
+          },
+          "species": {
+            "name": "Human",
+            "designation": "sentient",
+            "classification": "mammal",
+            "id": "c3BlY2llczox",
+            "averageHeight": 180,
+            "averageLifespan": 120,
+            "language": "Galactic Basic",
+            "homeworld": {
+              "id": "cGxhbmV0czo5",
+              "name": "Coruscant",
+              "population": 1000000000000
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6MQ==",
+                "episodeID": 4,
+                "director": "George Lucas",
+                "producers": [
+                  "Gary Kurtz",
+                  "Rick McCallum"
+                ],
+                "title": "A New Hope",
+                "releaseDate": "1977-05-25"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjIw",
+          "name": "Yoda",
+          "birthYear": "896BBY",
+          "eyeColor": "brown",
+          "hairColor": "white",
+          "height": 66,
+          "mass": 17,
+          "homeworld": {
+            "id": "cGxhbmV0czoyOA==",
+            "name": "unknown",
+            "population": null
+          },
+          "species": {
+            "name": "Yoda's species",
+            "designation": "sentient",
+            "classification": "mammal",
+            "id": "c3BlY2llczo2",
+            "averageHeight": 66,
+            "averageLifespan": 900,
+            "language": "Galactic basic",
+            "homeworld": {
+              "id": "cGxhbmV0czoyOA==",
+              "name": "unknown",
+              "population": null
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6Mg==",
+                "episodeID": 5,
+                "director": "Irvin Kershner",
+                "producers": [
+                  "Gary Kurtz",
+                  "Rick McCallum"
+                ],
+                "title": "The Empire Strikes Back",
+                "releaseDate": "1980-05-17"
+              },
+              {
+                "id": "ZmlsbXM6Mw==",
+                "episodeID": 6,
+                "director": "Richard Marquand",
+                "producers": [
+                  "Howard G. Kazanjian",
+                  "George Lucas",
+                  "Rick McCallum"
+                ],
+                "title": "Return of the Jedi",
+                "releaseDate": "1983-05-25"
+              },
+              {
+                "id": "ZmlsbXM6NA==",
+                "episodeID": 1,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "The Phantom Menace",
+                "releaseDate": "1999-05-19"
+              },
+              {
+                "id": "ZmlsbXM6NQ==",
+                "episodeID": 2,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Attack of the Clones",
+                "releaseDate": "2002-05-16"
+              },
+              {
+                "id": "ZmlsbXM6Ng==",
+                "episodeID": 3,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Revenge of the Sith",
+                "releaseDate": "2005-05-19"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjIx",
+          "name": "Palpatine",
+          "birthYear": "82BBY",
+          "eyeColor": "yellow",
+          "hairColor": "grey",
+          "height": 170,
+          "mass": 75,
+          "homeworld": {
+            "id": "cGxhbmV0czo4",
+            "name": "Naboo",
+            "population": 4500000000
+          },
+          "species": {
+            "name": "Human",
+            "designation": "sentient",
+            "classification": "mammal",
+            "id": "c3BlY2llczox",
+            "averageHeight": 180,
+            "averageLifespan": 120,
+            "language": "Galactic Basic",
+            "homeworld": {
+              "id": "cGxhbmV0czo5",
+              "name": "Coruscant",
+              "population": 1000000000000
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6Mg==",
+                "episodeID": 5,
+                "director": "Irvin Kershner",
+                "producers": [
+                  "Gary Kurtz",
+                  "Rick McCallum"
+                ],
+                "title": "The Empire Strikes Back",
+                "releaseDate": "1980-05-17"
+              },
+              {
+                "id": "ZmlsbXM6Mw==",
+                "episodeID": 6,
+                "director": "Richard Marquand",
+                "producers": [
+                  "Howard G. Kazanjian",
+                  "George Lucas",
+                  "Rick McCallum"
+                ],
+                "title": "Return of the Jedi",
+                "releaseDate": "1983-05-25"
+              },
+              {
+                "id": "ZmlsbXM6NA==",
+                "episodeID": 1,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "The Phantom Menace",
+                "releaseDate": "1999-05-19"
+              },
+              {
+                "id": "ZmlsbXM6NQ==",
+                "episodeID": 2,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Attack of the Clones",
+                "releaseDate": "2002-05-16"
+              },
+              {
+                "id": "ZmlsbXM6Ng==",
+                "episodeID": 3,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Revenge of the Sith",
+                "releaseDate": "2005-05-19"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjIy",
+          "name": "Boba Fett",
+          "birthYear": "31.5BBY",
+          "eyeColor": "brown",
+          "hairColor": "black",
+          "height": 183,
+          "mass": 78.2,
+          "homeworld": {
+            "id": "cGxhbmV0czoxMA==",
+            "name": "Kamino",
+            "population": 1000000000
+          },
+          "species": {
+            "name": "Human",
+            "designation": "sentient",
+            "classification": "mammal",
+            "id": "c3BlY2llczox",
+            "averageHeight": 180,
+            "averageLifespan": 120,
+            "language": "Galactic Basic",
+            "homeworld": {
+              "id": "cGxhbmV0czo5",
+              "name": "Coruscant",
+              "population": 1000000000000
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6Mg==",
+                "episodeID": 5,
+                "director": "Irvin Kershner",
+                "producers": [
+                  "Gary Kurtz",
+                  "Rick McCallum"
+                ],
+                "title": "The Empire Strikes Back",
+                "releaseDate": "1980-05-17"
+              },
+              {
+                "id": "ZmlsbXM6Mw==",
+                "episodeID": 6,
+                "director": "Richard Marquand",
+                "producers": [
+                  "Howard G. Kazanjian",
+                  "George Lucas",
+                  "Rick McCallum"
+                ],
+                "title": "Return of the Jedi",
+                "releaseDate": "1983-05-25"
+              },
+              {
+                "id": "ZmlsbXM6NQ==",
+                "episodeID": 2,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Attack of the Clones",
+                "releaseDate": "2002-05-16"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjIz",
+          "name": "IG-88",
+          "birthYear": "15BBY",
+          "eyeColor": "red",
+          "hairColor": "none",
+          "height": 200,
+          "mass": 140,
+          "homeworld": {
+            "id": "cGxhbmV0czoyOA==",
+            "name": "unknown",
+            "population": null
+          },
+          "species": {
+            "name": "Droid",
+            "designation": "sentient",
+            "classification": "artificial",
+            "id": "c3BlY2llczoy",
+            "averageHeight": null,
+            "averageLifespan": null,
+            "language": "n/a",
+            "homeworld": null
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6Mg==",
+                "episodeID": 5,
+                "director": "Irvin Kershner",
+                "producers": [
+                  "Gary Kurtz",
+                  "Rick McCallum"
+                ],
+                "title": "The Empire Strikes Back",
+                "releaseDate": "1980-05-17"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjI0",
+          "name": "Bossk",
+          "birthYear": "53BBY",
+          "eyeColor": "red",
+          "hairColor": "none",
+          "height": 190,
+          "mass": 113,
+          "homeworld": {
+            "id": "cGxhbmV0czoyOQ==",
+            "name": "Trandosha",
+            "population": 42000000
+          },
+          "species": {
+            "name": "Trandoshan",
+            "designation": "sentient",
+            "classification": "reptile",
+            "id": "c3BlY2llczo3",
+            "averageHeight": 200,
+            "averageLifespan": null,
+            "language": "Dosh",
+            "homeworld": {
+              "id": "cGxhbmV0czoyOQ==",
+              "name": "Trandosha",
+              "population": 42000000
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6Mg==",
+                "episodeID": 5,
+                "director": "Irvin Kershner",
+                "producers": [
+                  "Gary Kurtz",
+                  "Rick McCallum"
+                ],
+                "title": "The Empire Strikes Back",
+                "releaseDate": "1980-05-17"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjI1",
+          "name": "Lando Calrissian",
+          "birthYear": "31BBY",
+          "eyeColor": "brown",
+          "hairColor": "black",
+          "height": 177,
+          "mass": 79,
+          "homeworld": {
+            "id": "cGxhbmV0czozMA==",
+            "name": "Socorro",
+            "population": 300000000
+          },
+          "species": {
+            "name": "Human",
+            "designation": "sentient",
+            "classification": "mammal",
+            "id": "c3BlY2llczox",
+            "averageHeight": 180,
+            "averageLifespan": 120,
+            "language": "Galactic Basic",
+            "homeworld": {
+              "id": "cGxhbmV0czo5",
+              "name": "Coruscant",
+              "population": 1000000000000
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6Mg==",
+                "episodeID": 5,
+                "director": "Irvin Kershner",
+                "producers": [
+                  "Gary Kurtz",
+                  "Rick McCallum"
+                ],
+                "title": "The Empire Strikes Back",
+                "releaseDate": "1980-05-17"
+              },
+              {
+                "id": "ZmlsbXM6Mw==",
+                "episodeID": 6,
+                "director": "Richard Marquand",
+                "producers": [
+                  "Howard G. Kazanjian",
+                  "George Lucas",
+                  "Rick McCallum"
+                ],
+                "title": "Return of the Jedi",
+                "releaseDate": "1983-05-25"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjI2",
+          "name": "Lobot",
+          "birthYear": "37BBY",
+          "eyeColor": "blue",
+          "hairColor": "none",
+          "height": 175,
+          "mass": 79,
+          "homeworld": {
+            "id": "cGxhbmV0czo2",
+            "name": "Bespin",
+            "population": 6000000
+          },
+          "species": {
+            "name": "Human",
+            "designation": "sentient",
+            "classification": "mammal",
+            "id": "c3BlY2llczox",
+            "averageHeight": 180,
+            "averageLifespan": 120,
+            "language": "Galactic Basic",
+            "homeworld": {
+              "id": "cGxhbmV0czo5",
+              "name": "Coruscant",
+              "population": 1000000000000
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6Mg==",
+                "episodeID": 5,
+                "director": "Irvin Kershner",
+                "producers": [
+                  "Gary Kurtz",
+                  "Rick McCallum"
+                ],
+                "title": "The Empire Strikes Back",
+                "releaseDate": "1980-05-17"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjI3",
+          "name": "Ackbar",
+          "birthYear": "41BBY",
+          "eyeColor": "orange",
+          "hairColor": "none",
+          "height": 180,
+          "mass": 83,
+          "homeworld": {
+            "id": "cGxhbmV0czozMQ==",
+            "name": "Mon Cala",
+            "population": 27000000000
+          },
+          "species": {
+            "name": "Mon Calamari",
+            "designation": "sentient",
+            "classification": "amphibian",
+            "id": "c3BlY2llczo4",
+            "averageHeight": 160,
+            "averageLifespan": null,
+            "language": "Mon Calamarian",
+            "homeworld": {
+              "id": "cGxhbmV0czozMQ==",
+              "name": "Mon Cala",
+              "population": 27000000000
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6Mw==",
+                "episodeID": 6,
+                "director": "Richard Marquand",
+                "producers": [
+                  "Howard G. Kazanjian",
+                  "George Lucas",
+                  "Rick McCallum"
+                ],
+                "title": "Return of the Jedi",
+                "releaseDate": "1983-05-25"
+              },
+              {
+                "id": "ZmlsbXM6Nw==",
+                "episodeID": 7,
+                "director": "J. J. Abrams",
+                "producers": [
+                  "Kathleen Kennedy",
+                  "J. J. Abrams",
+                  "Bryan Burk"
+                ],
+                "title": "The Force Awakens",
+                "releaseDate": "2015-12-11"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjI4",
+          "name": "Mon Mothma",
+          "birthYear": "48BBY",
+          "eyeColor": "blue",
+          "hairColor": "auburn",
+          "height": 150,
+          "mass": null,
+          "homeworld": {
+            "id": "cGxhbmV0czozMg==",
+            "name": "Chandrila",
+            "population": 1200000000
+          },
+          "species": {
+            "name": "Human",
+            "designation": "sentient",
+            "classification": "mammal",
+            "id": "c3BlY2llczox",
+            "averageHeight": 180,
+            "averageLifespan": 120,
+            "language": "Galactic Basic",
+            "homeworld": {
+              "id": "cGxhbmV0czo5",
+              "name": "Coruscant",
+              "population": 1000000000000
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6Mw==",
+                "episodeID": 6,
+                "director": "Richard Marquand",
+                "producers": [
+                  "Howard G. Kazanjian",
+                  "George Lucas",
+                  "Rick McCallum"
+                ],
+                "title": "Return of the Jedi",
+                "releaseDate": "1983-05-25"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjI5",
+          "name": "Arvel Crynyd",
+          "birthYear": "unknown",
+          "eyeColor": "brown",
+          "hairColor": "brown",
+          "height": null,
+          "mass": null,
+          "homeworld": {
+            "id": "cGxhbmV0czoyOA==",
+            "name": "unknown",
+            "population": null
+          },
+          "species": {
+            "name": "Human",
+            "designation": "sentient",
+            "classification": "mammal",
+            "id": "c3BlY2llczox",
+            "averageHeight": 180,
+            "averageLifespan": 120,
+            "language": "Galactic Basic",
+            "homeworld": {
+              "id": "cGxhbmV0czo5",
+              "name": "Coruscant",
+              "population": 1000000000000
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6Mw==",
+                "episodeID": 6,
+                "director": "Richard Marquand",
+                "producers": [
+                  "Howard G. Kazanjian",
+                  "George Lucas",
+                  "Rick McCallum"
+                ],
+                "title": "Return of the Jedi",
+                "releaseDate": "1983-05-25"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjMw",
+          "name": "Wicket Systri Warrick",
+          "birthYear": "8BBY",
+          "eyeColor": "brown",
+          "hairColor": "brown",
+          "height": 88,
+          "mass": 20,
+          "homeworld": {
+            "id": "cGxhbmV0czo3",
+            "name": "Endor",
+            "population": 30000000
+          },
+          "species": {
+            "name": "Ewok",
+            "designation": "sentient",
+            "classification": "mammal",
+            "id": "c3BlY2llczo5",
+            "averageHeight": 100,
+            "averageLifespan": null,
+            "language": "Ewokese",
+            "homeworld": {
+              "id": "cGxhbmV0czo3",
+              "name": "Endor",
+              "population": 30000000
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6Mw==",
+                "episodeID": 6,
+                "director": "Richard Marquand",
+                "producers": [
+                  "Howard G. Kazanjian",
+                  "George Lucas",
+                  "Rick McCallum"
+                ],
+                "title": "Return of the Jedi",
+                "releaseDate": "1983-05-25"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjMx",
+          "name": "Nien Nunb",
+          "birthYear": "unknown",
+          "eyeColor": "black",
+          "hairColor": "none",
+          "height": 160,
+          "mass": 68,
+          "homeworld": {
+            "id": "cGxhbmV0czozMw==",
+            "name": "Sullust",
+            "population": 18500000000
+          },
+          "species": {
+            "name": "Sullustan",
+            "designation": "sentient",
+            "classification": "mammal",
+            "id": "c3BlY2llczoxMA==",
+            "averageHeight": 180,
+            "averageLifespan": null,
+            "language": "Sullutese",
+            "homeworld": {
+              "id": "cGxhbmV0czozMw==",
+              "name": "Sullust",
+              "population": 18500000000
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6Mw==",
+                "episodeID": 6,
+                "director": "Richard Marquand",
+                "producers": [
+                  "Howard G. Kazanjian",
+                  "George Lucas",
+                  "Rick McCallum"
+                ],
+                "title": "Return of the Jedi",
+                "releaseDate": "1983-05-25"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjMy",
+          "name": "Qui-Gon Jinn",
+          "birthYear": "92BBY",
+          "eyeColor": "blue",
+          "hairColor": "brown",
+          "height": 193,
+          "mass": 89,
+          "homeworld": {
+            "id": "cGxhbmV0czoyOA==",
+            "name": "unknown",
+            "population": null
+          },
+          "species": {
+            "name": "Human",
+            "designation": "sentient",
+            "classification": "mammal",
+            "id": "c3BlY2llczox",
+            "averageHeight": 180,
+            "averageLifespan": 120,
+            "language": "Galactic Basic",
+            "homeworld": {
+              "id": "cGxhbmV0czo5",
+              "name": "Coruscant",
+              "population": 1000000000000
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6NA==",
+                "episodeID": 1,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "The Phantom Menace",
+                "releaseDate": "1999-05-19"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": [
+              {
+                "id": "dmVoaWNsZXM6Mzg=",
+                "name": "Tribubble bongo",
+                "crew": "1",
+                "manufacturers": [
+                  "Otoh Gunga Bongameken Cooperative"
+                ],
+                "cargoCapacity": 1600,
+                "costInCredits": null,
+                "vehicleClass": "submarine"
+              }
+            ]
+          }
+        },
+        {
+          "id": "cGVvcGxlOjMz",
+          "name": "Nute Gunray",
+          "birthYear": "unknown",
+          "eyeColor": "red",
+          "hairColor": "none",
+          "height": 191,
+          "mass": 90,
+          "homeworld": {
+            "id": "cGxhbmV0czoxOA==",
+            "name": "Cato Neimoidia",
+            "population": 10000000
+          },
+          "species": {
+            "name": "Neimodian",
+            "designation": "sentient",
+            "classification": "unknown",
+            "id": "c3BlY2llczoxMQ==",
+            "averageHeight": 180,
+            "averageLifespan": null,
+            "language": "Neimoidia",
+            "homeworld": {
+              "id": "cGxhbmV0czoxOA==",
+              "name": "Cato Neimoidia",
+              "population": 10000000
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6NA==",
+                "episodeID": 1,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "The Phantom Menace",
+                "releaseDate": "1999-05-19"
+              },
+              {
+                "id": "ZmlsbXM6NQ==",
+                "episodeID": 2,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Attack of the Clones",
+                "releaseDate": "2002-05-16"
+              },
+              {
+                "id": "ZmlsbXM6Ng==",
+                "episodeID": 3,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Revenge of the Sith",
+                "releaseDate": "2005-05-19"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjM0",
+          "name": "Finis Valorum",
+          "birthYear": "91BBY",
+          "eyeColor": "blue",
+          "hairColor": "blond",
+          "height": 170,
+          "mass": null,
+          "homeworld": {
+            "id": "cGxhbmV0czo5",
+            "name": "Coruscant",
+            "population": 1000000000000
+          },
+          "species": {
+            "name": "Human",
+            "designation": "sentient",
+            "classification": "mammal",
+            "id": "c3BlY2llczox",
+            "averageHeight": 180,
+            "averageLifespan": 120,
+            "language": "Galactic Basic",
+            "homeworld": {
+              "id": "cGxhbmV0czo5",
+              "name": "Coruscant",
+              "population": 1000000000000
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6NA==",
+                "episodeID": 1,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "The Phantom Menace",
+                "releaseDate": "1999-05-19"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjM1",
+          "name": "Padmé Amidala",
+          "birthYear": "46BBY",
+          "eyeColor": "brown",
+          "hairColor": "brown",
+          "height": 165,
+          "mass": 45,
+          "homeworld": {
+            "id": "cGxhbmV0czo4",
+            "name": "Naboo",
+            "population": 4500000000
+          },
+          "species": {
+            "name": "Human",
+            "designation": "sentient",
+            "classification": "mammal",
+            "id": "c3BlY2llczox",
+            "averageHeight": 180,
+            "averageLifespan": 120,
+            "language": "Galactic Basic",
+            "homeworld": {
+              "id": "cGxhbmV0czo5",
+              "name": "Coruscant",
+              "population": 1000000000000
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6NA==",
+                "episodeID": 1,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "The Phantom Menace",
+                "releaseDate": "1999-05-19"
+              },
+              {
+                "id": "ZmlsbXM6NQ==",
+                "episodeID": 2,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Attack of the Clones",
+                "releaseDate": "2002-05-16"
+              },
+              {
+                "id": "ZmlsbXM6Ng==",
+                "episodeID": 3,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Revenge of the Sith",
+                "releaseDate": "2005-05-19"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjM2",
+          "name": "Jar Jar Binks",
+          "birthYear": "52BBY",
+          "eyeColor": "orange",
+          "hairColor": "none",
+          "height": 196,
+          "mass": 66,
+          "homeworld": {
+            "id": "cGxhbmV0czo4",
+            "name": "Naboo",
+            "population": 4500000000
+          },
+          "species": {
+            "name": "Gungan",
+            "designation": "sentient",
+            "classification": "amphibian",
+            "id": "c3BlY2llczoxMg==",
+            "averageHeight": 190,
+            "averageLifespan": null,
+            "language": "Gungan basic",
+            "homeworld": {
+              "id": "cGxhbmV0czo4",
+              "name": "Naboo",
+              "population": 4500000000
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6NA==",
+                "episodeID": 1,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "The Phantom Menace",
+                "releaseDate": "1999-05-19"
+              },
+              {
+                "id": "ZmlsbXM6NQ==",
+                "episodeID": 2,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Attack of the Clones",
+                "releaseDate": "2002-05-16"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjM3",
+          "name": "Roos Tarpals",
+          "birthYear": "unknown",
+          "eyeColor": "orange",
+          "hairColor": "none",
+          "height": 224,
+          "mass": 82,
+          "homeworld": {
+            "id": "cGxhbmV0czo4",
+            "name": "Naboo",
+            "population": 4500000000
+          },
+          "species": {
+            "name": "Gungan",
+            "designation": "sentient",
+            "classification": "amphibian",
+            "id": "c3BlY2llczoxMg==",
+            "averageHeight": 190,
+            "averageLifespan": null,
+            "language": "Gungan basic",
+            "homeworld": {
+              "id": "cGxhbmV0czo4",
+              "name": "Naboo",
+              "population": 4500000000
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6NA==",
+                "episodeID": 1,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "The Phantom Menace",
+                "releaseDate": "1999-05-19"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjM4",
+          "name": "Rugor Nass",
+          "birthYear": "unknown",
+          "eyeColor": "orange",
+          "hairColor": "none",
+          "height": 206,
+          "mass": null,
+          "homeworld": {
+            "id": "cGxhbmV0czo4",
+            "name": "Naboo",
+            "population": 4500000000
+          },
+          "species": {
+            "name": "Gungan",
+            "designation": "sentient",
+            "classification": "amphibian",
+            "id": "c3BlY2llczoxMg==",
+            "averageHeight": 190,
+            "averageLifespan": null,
+            "language": "Gungan basic",
+            "homeworld": {
+              "id": "cGxhbmV0czo4",
+              "name": "Naboo",
+              "population": 4500000000
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6NA==",
+                "episodeID": 1,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "The Phantom Menace",
+                "releaseDate": "1999-05-19"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjM5",
+          "name": "Ric Olié",
+          "birthYear": "unknown",
+          "eyeColor": "blue",
+          "hairColor": "brown",
+          "height": 183,
+          "mass": null,
+          "homeworld": {
+            "id": "cGxhbmV0czo4",
+            "name": "Naboo",
+            "population": 4500000000
+          },
+          "species": null,
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6NA==",
+                "episodeID": 1,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "The Phantom Menace",
+                "releaseDate": "1999-05-19"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjQw",
+          "name": "Watto",
+          "birthYear": "unknown",
+          "eyeColor": "yellow",
+          "hairColor": "black",
+          "height": 137,
+          "mass": null,
+          "homeworld": {
+            "id": "cGxhbmV0czozNA==",
+            "name": "Toydaria",
+            "population": 11000000
+          },
+          "species": {
+            "name": "Toydarian",
+            "designation": "sentient",
+            "classification": "mammal",
+            "id": "c3BlY2llczoxMw==",
+            "averageHeight": 120,
+            "averageLifespan": 91,
+            "language": "Toydarian",
+            "homeworld": {
+              "id": "cGxhbmV0czozNA==",
+              "name": "Toydaria",
+              "population": 11000000
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6NA==",
+                "episodeID": 1,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "The Phantom Menace",
+                "releaseDate": "1999-05-19"
+              },
+              {
+                "id": "ZmlsbXM6NQ==",
+                "episodeID": 2,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Attack of the Clones",
+                "releaseDate": "2002-05-16"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjQx",
+          "name": "Sebulba",
+          "birthYear": "unknown",
+          "eyeColor": "orange",
+          "hairColor": "none",
+          "height": 112,
+          "mass": 40,
+          "homeworld": {
+            "id": "cGxhbmV0czozNQ==",
+            "name": "Malastare",
+            "population": 2000000000
+          },
+          "species": {
+            "name": "Dug",
+            "designation": "sentient",
+            "classification": "mammal",
+            "id": "c3BlY2llczoxNA==",
+            "averageHeight": 100,
+            "averageLifespan": null,
+            "language": "Dugese",
+            "homeworld": {
+              "id": "cGxhbmV0czozNQ==",
+              "name": "Malastare",
+              "population": 2000000000
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6NA==",
+                "episodeID": 1,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "The Phantom Menace",
+                "releaseDate": "1999-05-19"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjQy",
+          "name": "Quarsh Panaka",
+          "birthYear": "62BBY",
+          "eyeColor": "brown",
+          "hairColor": "black",
+          "height": 183,
+          "mass": null,
+          "homeworld": {
+            "id": "cGxhbmV0czo4",
+            "name": "Naboo",
+            "population": 4500000000
+          },
+          "species": null,
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6NA==",
+                "episodeID": 1,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "The Phantom Menace",
+                "releaseDate": "1999-05-19"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjQz",
+          "name": "Shmi Skywalker",
+          "birthYear": "72BBY",
+          "eyeColor": "brown",
+          "hairColor": "black",
+          "height": 163,
+          "mass": null,
+          "homeworld": {
+            "id": "cGxhbmV0czox",
+            "name": "Tatooine",
+            "population": 200000
+          },
+          "species": {
+            "name": "Human",
+            "designation": "sentient",
+            "classification": "mammal",
+            "id": "c3BlY2llczox",
+            "averageHeight": 180,
+            "averageLifespan": 120,
+            "language": "Galactic Basic",
+            "homeworld": {
+              "id": "cGxhbmV0czo5",
+              "name": "Coruscant",
+              "population": 1000000000000
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6NA==",
+                "episodeID": 1,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "The Phantom Menace",
+                "releaseDate": "1999-05-19"
+              },
+              {
+                "id": "ZmlsbXM6NQ==",
+                "episodeID": 2,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Attack of the Clones",
+                "releaseDate": "2002-05-16"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjQ0",
+          "name": "Darth Maul",
+          "birthYear": "54BBY",
+          "eyeColor": "yellow",
+          "hairColor": "none",
+          "height": 175,
+          "mass": 80,
+          "homeworld": {
+            "id": "cGxhbmV0czozNg==",
+            "name": "Dathomir",
+            "population": 5200
+          },
+          "species": {
+            "name": "Zabrak",
+            "designation": "sentient",
+            "classification": "mammal",
+            "id": "c3BlY2llczoyMg==",
+            "averageHeight": 180,
+            "averageLifespan": null,
+            "language": "Zabraki",
+            "homeworld": {
+              "id": "cGxhbmV0czo0NQ==",
+              "name": "Iridonia",
+              "population": null
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6NA==",
+                "episodeID": 1,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "The Phantom Menace",
+                "releaseDate": "1999-05-19"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": [
+              {
+                "id": "dmVoaWNsZXM6NDI=",
+                "name": "Sith speeder",
+                "crew": "1",
+                "manufacturers": [
+                  "Razalon"
+                ],
+                "cargoCapacity": 2,
+                "costInCredits": 4000,
+                "vehicleClass": "speeder"
+              }
+            ]
+          }
+        },
+        {
+          "id": "cGVvcGxlOjQ1",
+          "name": "Bib Fortuna",
+          "birthYear": "unknown",
+          "eyeColor": "pink",
+          "hairColor": "none",
+          "height": 180,
+          "mass": null,
+          "homeworld": {
+            "id": "cGxhbmV0czozNw==",
+            "name": "Ryloth",
+            "population": 1500000000
+          },
+          "species": {
+            "name": "Twi'lek",
+            "designation": "sentient",
+            "classification": "mammals",
+            "id": "c3BlY2llczoxNQ==",
+            "averageHeight": 200,
+            "averageLifespan": null,
+            "language": "Twi'leki",
+            "homeworld": {
+              "id": "cGxhbmV0czozNw==",
+              "name": "Ryloth",
+              "population": 1500000000
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6Mw==",
+                "episodeID": 6,
+                "director": "Richard Marquand",
+                "producers": [
+                  "Howard G. Kazanjian",
+                  "George Lucas",
+                  "Rick McCallum"
+                ],
+                "title": "Return of the Jedi",
+                "releaseDate": "1983-05-25"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjQ2",
+          "name": "Ayla Secura",
+          "birthYear": "48BBY",
+          "eyeColor": "hazel",
+          "hairColor": "none",
+          "height": 178,
+          "mass": 55,
+          "homeworld": {
+            "id": "cGxhbmV0czozNw==",
+            "name": "Ryloth",
+            "population": 1500000000
+          },
+          "species": {
+            "name": "Twi'lek",
+            "designation": "sentient",
+            "classification": "mammals",
+            "id": "c3BlY2llczoxNQ==",
+            "averageHeight": 200,
+            "averageLifespan": null,
+            "language": "Twi'leki",
+            "homeworld": {
+              "id": "cGxhbmV0czozNw==",
+              "name": "Ryloth",
+              "population": 1500000000
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6NA==",
+                "episodeID": 1,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "The Phantom Menace",
+                "releaseDate": "1999-05-19"
+              },
+              {
+                "id": "ZmlsbXM6NQ==",
+                "episodeID": 2,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Attack of the Clones",
+                "releaseDate": "2002-05-16"
+              },
+              {
+                "id": "ZmlsbXM6Ng==",
+                "episodeID": 3,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Revenge of the Sith",
+                "releaseDate": "2005-05-19"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjQ3",
+          "name": "Ratts Tyerell",
+          "birthYear": "unknown",
+          "eyeColor": "unknown",
+          "hairColor": "none",
+          "height": 79,
+          "mass": 15,
+          "homeworld": {
+            "id": "cGxhbmV0czozOA==",
+            "name": "Aleen Minor",
+            "population": null
+          },
+          "species": {
+            "name": "Aleena",
+            "designation": "sentient",
+            "classification": "reptile",
+            "id": "c3BlY2llczoxNg==",
+            "averageHeight": 80,
+            "averageLifespan": 79,
+            "language": "Aleena",
+            "homeworld": {
+              "id": "cGxhbmV0czozOA==",
+              "name": "Aleen Minor",
+              "population": null
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6NA==",
+                "episodeID": 1,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "The Phantom Menace",
+                "releaseDate": "1999-05-19"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjQ4",
+          "name": "Dud Bolt",
+          "birthYear": "unknown",
+          "eyeColor": "yellow",
+          "hairColor": "none",
+          "height": 94,
+          "mass": 45,
+          "homeworld": {
+            "id": "cGxhbmV0czozOQ==",
+            "name": "Vulpter",
+            "population": 421000000
+          },
+          "species": {
+            "name": "Vulptereen",
+            "designation": "sentient",
+            "classification": "unknown",
+            "id": "c3BlY2llczoxNw==",
+            "averageHeight": 100,
+            "averageLifespan": null,
+            "language": "vulpterish",
+            "homeworld": {
+              "id": "cGxhbmV0czozOQ==",
+              "name": "Vulpter",
+              "population": 421000000
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6NA==",
+                "episodeID": 1,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "The Phantom Menace",
+                "releaseDate": "1999-05-19"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjQ5",
+          "name": "Gasgano",
+          "birthYear": "unknown",
+          "eyeColor": "black",
+          "hairColor": "none",
+          "height": 122,
+          "mass": null,
+          "homeworld": {
+            "id": "cGxhbmV0czo0MA==",
+            "name": "Troiken",
+            "population": null
+          },
+          "species": {
+            "name": "Xexto",
+            "designation": "sentient",
+            "classification": "unknown",
+            "id": "c3BlY2llczoxOA==",
+            "averageHeight": 125,
+            "averageLifespan": null,
+            "language": "Xextese",
+            "homeworld": {
+              "id": "cGxhbmV0czo0MA==",
+              "name": "Troiken",
+              "population": null
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6NA==",
+                "episodeID": 1,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "The Phantom Menace",
+                "releaseDate": "1999-05-19"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjUw",
+          "name": "Ben Quadinaros",
+          "birthYear": "unknown",
+          "eyeColor": "orange",
+          "hairColor": "none",
+          "height": 163,
+          "mass": 65,
+          "homeworld": {
+            "id": "cGxhbmV0czo0MQ==",
+            "name": "Tund",
+            "population": 0
+          },
+          "species": {
+            "name": "Toong",
+            "designation": "sentient",
+            "classification": "unknown",
+            "id": "c3BlY2llczoxOQ==",
+            "averageHeight": 200,
+            "averageLifespan": null,
+            "language": "Tundan",
+            "homeworld": {
+              "id": "cGxhbmV0czo0MQ==",
+              "name": "Tund",
+              "population": 0
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6NA==",
+                "episodeID": 1,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "The Phantom Menace",
+                "releaseDate": "1999-05-19"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjUx",
+          "name": "Mace Windu",
+          "birthYear": "72BBY",
+          "eyeColor": "brown",
+          "hairColor": "none",
+          "height": 188,
+          "mass": 84,
+          "homeworld": {
+            "id": "cGxhbmV0czo0Mg==",
+            "name": "Haruun Kal",
+            "population": 705300
+          },
+          "species": {
+            "name": "Human",
+            "designation": "sentient",
+            "classification": "mammal",
+            "id": "c3BlY2llczox",
+            "averageHeight": 180,
+            "averageLifespan": 120,
+            "language": "Galactic Basic",
+            "homeworld": {
+              "id": "cGxhbmV0czo5",
+              "name": "Coruscant",
+              "population": 1000000000000
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6NA==",
+                "episodeID": 1,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "The Phantom Menace",
+                "releaseDate": "1999-05-19"
+              },
+              {
+                "id": "ZmlsbXM6NQ==",
+                "episodeID": 2,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Attack of the Clones",
+                "releaseDate": "2002-05-16"
+              },
+              {
+                "id": "ZmlsbXM6Ng==",
+                "episodeID": 3,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Revenge of the Sith",
+                "releaseDate": "2005-05-19"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjUy",
+          "name": "Ki-Adi-Mundi",
+          "birthYear": "92BBY",
+          "eyeColor": "yellow",
+          "hairColor": "white",
+          "height": 198,
+          "mass": 82,
+          "homeworld": {
+            "id": "cGxhbmV0czo0Mw==",
+            "name": "Cerea",
+            "population": 450000000
+          },
+          "species": {
+            "name": "Cerean",
+            "designation": "sentient",
+            "classification": "mammal",
+            "id": "c3BlY2llczoyMA==",
+            "averageHeight": 200,
+            "averageLifespan": null,
+            "language": "Cerean",
+            "homeworld": {
+              "id": "cGxhbmV0czo0Mw==",
+              "name": "Cerea",
+              "population": 450000000
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6NA==",
+                "episodeID": 1,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "The Phantom Menace",
+                "releaseDate": "1999-05-19"
+              },
+              {
+                "id": "ZmlsbXM6NQ==",
+                "episodeID": 2,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Attack of the Clones",
+                "releaseDate": "2002-05-16"
+              },
+              {
+                "id": "ZmlsbXM6Ng==",
+                "episodeID": 3,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Revenge of the Sith",
+                "releaseDate": "2005-05-19"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjUz",
+          "name": "Kit Fisto",
+          "birthYear": "unknown",
+          "eyeColor": "black",
+          "hairColor": "none",
+          "height": 196,
+          "mass": 87,
+          "homeworld": {
+            "id": "cGxhbmV0czo0NA==",
+            "name": "Glee Anselm",
+            "population": 500000000
+          },
+          "species": {
+            "name": "Nautolan",
+            "designation": "sentient",
+            "classification": "amphibian",
+            "id": "c3BlY2llczoyMQ==",
+            "averageHeight": 180,
+            "averageLifespan": 70,
+            "language": "Nautila",
+            "homeworld": {
+              "id": "cGxhbmV0czo0NA==",
+              "name": "Glee Anselm",
+              "population": 500000000
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6NA==",
+                "episodeID": 1,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "The Phantom Menace",
+                "releaseDate": "1999-05-19"
+              },
+              {
+                "id": "ZmlsbXM6NQ==",
+                "episodeID": 2,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Attack of the Clones",
+                "releaseDate": "2002-05-16"
+              },
+              {
+                "id": "ZmlsbXM6Ng==",
+                "episodeID": 3,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Revenge of the Sith",
+                "releaseDate": "2005-05-19"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjU0",
+          "name": "Eeth Koth",
+          "birthYear": "unknown",
+          "eyeColor": "brown",
+          "hairColor": "black",
+          "height": 171,
+          "mass": null,
+          "homeworld": {
+            "id": "cGxhbmV0czo0NQ==",
+            "name": "Iridonia",
+            "population": null
+          },
+          "species": {
+            "name": "Zabrak",
+            "designation": "sentient",
+            "classification": "mammal",
+            "id": "c3BlY2llczoyMg==",
+            "averageHeight": 180,
+            "averageLifespan": null,
+            "language": "Zabraki",
+            "homeworld": {
+              "id": "cGxhbmV0czo0NQ==",
+              "name": "Iridonia",
+              "population": null
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6NA==",
+                "episodeID": 1,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "The Phantom Menace",
+                "releaseDate": "1999-05-19"
+              },
+              {
+                "id": "ZmlsbXM6Ng==",
+                "episodeID": 3,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Revenge of the Sith",
+                "releaseDate": "2005-05-19"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjU1",
+          "name": "Adi Gallia",
+          "birthYear": "unknown",
+          "eyeColor": "blue",
+          "hairColor": "none",
+          "height": 184,
+          "mass": 50,
+          "homeworld": {
+            "id": "cGxhbmV0czo5",
+            "name": "Coruscant",
+            "population": 1000000000000
+          },
+          "species": {
+            "name": "Tholothian",
+            "designation": "sentient",
+            "classification": "mammal",
+            "id": "c3BlY2llczoyMw==",
+            "averageHeight": null,
+            "averageLifespan": null,
+            "language": "unknown",
+            "homeworld": {
+              "id": "cGxhbmV0czo0Ng==",
+              "name": "Tholoth",
+              "population": null
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6NA==",
+                "episodeID": 1,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "The Phantom Menace",
+                "releaseDate": "1999-05-19"
+              },
+              {
+                "id": "ZmlsbXM6Ng==",
+                "episodeID": 3,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Revenge of the Sith",
+                "releaseDate": "2005-05-19"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjU2",
+          "name": "Saesee Tiin",
+          "birthYear": "unknown",
+          "eyeColor": "orange",
+          "hairColor": "none",
+          "height": 188,
+          "mass": null,
+          "homeworld": {
+            "id": "cGxhbmV0czo0Nw==",
+            "name": "Iktotch",
+            "population": null
+          },
+          "species": {
+            "name": "Iktotchi",
+            "designation": "sentient",
+            "classification": "unknown",
+            "id": "c3BlY2llczoyNA==",
+            "averageHeight": 180,
+            "averageLifespan": null,
+            "language": "Iktotchese",
+            "homeworld": {
+              "id": "cGxhbmV0czo0Nw==",
+              "name": "Iktotch",
+              "population": null
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6NA==",
+                "episodeID": 1,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "The Phantom Menace",
+                "releaseDate": "1999-05-19"
+              },
+              {
+                "id": "ZmlsbXM6Ng==",
+                "episodeID": 3,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Revenge of the Sith",
+                "releaseDate": "2005-05-19"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjU3",
+          "name": "Yarael Poof",
+          "birthYear": "unknown",
+          "eyeColor": "yellow",
+          "hairColor": "none",
+          "height": 264,
+          "mass": null,
+          "homeworld": {
+            "id": "cGxhbmV0czo0OA==",
+            "name": "Quermia",
+            "population": null
+          },
+          "species": {
+            "name": "Quermian",
+            "designation": "sentient",
+            "classification": "mammal",
+            "id": "c3BlY2llczoyNQ==",
+            "averageHeight": 240,
+            "averageLifespan": 86,
+            "language": "Quermian",
+            "homeworld": {
+              "id": "cGxhbmV0czo0OA==",
+              "name": "Quermia",
+              "population": null
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6NA==",
+                "episodeID": 1,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "The Phantom Menace",
+                "releaseDate": "1999-05-19"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjU4",
+          "name": "Plo Koon",
+          "birthYear": "22BBY",
+          "eyeColor": "black",
+          "hairColor": "none",
+          "height": 188,
+          "mass": 80,
+          "homeworld": {
+            "id": "cGxhbmV0czo0OQ==",
+            "name": "Dorin",
+            "population": null
+          },
+          "species": {
+            "name": "Kel Dor",
+            "designation": "sentient",
+            "classification": "unknown",
+            "id": "c3BlY2llczoyNg==",
+            "averageHeight": 180,
+            "averageLifespan": 70,
+            "language": "Kel Dor",
+            "homeworld": {
+              "id": "cGxhbmV0czo0OQ==",
+              "name": "Dorin",
+              "population": null
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6NA==",
+                "episodeID": 1,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "The Phantom Menace",
+                "releaseDate": "1999-05-19"
+              },
+              {
+                "id": "ZmlsbXM6NQ==",
+                "episodeID": 2,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Attack of the Clones",
+                "releaseDate": "2002-05-16"
+              },
+              {
+                "id": "ZmlsbXM6Ng==",
+                "episodeID": 3,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Revenge of the Sith",
+                "releaseDate": "2005-05-19"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjU5",
+          "name": "Mas Amedda",
+          "birthYear": "unknown",
+          "eyeColor": "blue",
+          "hairColor": "none",
+          "height": 196,
+          "mass": null,
+          "homeworld": {
+            "id": "cGxhbmV0czo1MA==",
+            "name": "Champala",
+            "population": 3500000000
+          },
+          "species": {
+            "name": "Chagrian",
+            "designation": "sentient",
+            "classification": "amphibian",
+            "id": "c3BlY2llczoyNw==",
+            "averageHeight": 190,
+            "averageLifespan": null,
+            "language": "Chagria",
+            "homeworld": {
+              "id": "cGxhbmV0czo1MA==",
+              "name": "Champala",
+              "population": 3500000000
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6NA==",
+                "episodeID": 1,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "The Phantom Menace",
+                "releaseDate": "1999-05-19"
+              },
+              {
+                "id": "ZmlsbXM6NQ==",
+                "episodeID": 2,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Attack of the Clones",
+                "releaseDate": "2002-05-16"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjYw",
+          "name": "Gregar Typho",
+          "birthYear": "unknown",
+          "eyeColor": "brown",
+          "hairColor": "black",
+          "height": 185,
+          "mass": 85,
+          "homeworld": {
+            "id": "cGxhbmV0czo4",
+            "name": "Naboo",
+            "population": 4500000000
+          },
+          "species": {
+            "name": "Human",
+            "designation": "sentient",
+            "classification": "mammal",
+            "id": "c3BlY2llczox",
+            "averageHeight": 180,
+            "averageLifespan": 120,
+            "language": "Galactic Basic",
+            "homeworld": {
+              "id": "cGxhbmV0czo5",
+              "name": "Coruscant",
+              "population": 1000000000000
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6NQ==",
+                "episodeID": 2,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Attack of the Clones",
+                "releaseDate": "2002-05-16"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjYx",
+          "name": "Cordé",
+          "birthYear": "unknown",
+          "eyeColor": "brown",
+          "hairColor": "brown",
+          "height": 157,
+          "mass": null,
+          "homeworld": {
+            "id": "cGxhbmV0czo4",
+            "name": "Naboo",
+            "population": 4500000000
+          },
+          "species": {
+            "name": "Human",
+            "designation": "sentient",
+            "classification": "mammal",
+            "id": "c3BlY2llczox",
+            "averageHeight": 180,
+            "averageLifespan": 120,
+            "language": "Galactic Basic",
+            "homeworld": {
+              "id": "cGxhbmV0czo5",
+              "name": "Coruscant",
+              "population": 1000000000000
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6NQ==",
+                "episodeID": 2,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Attack of the Clones",
+                "releaseDate": "2002-05-16"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjYy",
+          "name": "Cliegg Lars",
+          "birthYear": "82BBY",
+          "eyeColor": "blue",
+          "hairColor": "brown",
+          "height": 183,
+          "mass": null,
+          "homeworld": {
+            "id": "cGxhbmV0czox",
+            "name": "Tatooine",
+            "population": 200000
+          },
+          "species": {
+            "name": "Human",
+            "designation": "sentient",
+            "classification": "mammal",
+            "id": "c3BlY2llczox",
+            "averageHeight": 180,
+            "averageLifespan": 120,
+            "language": "Galactic Basic",
+            "homeworld": {
+              "id": "cGxhbmV0czo5",
+              "name": "Coruscant",
+              "population": 1000000000000
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6NQ==",
+                "episodeID": 2,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Attack of the Clones",
+                "releaseDate": "2002-05-16"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjYz",
+          "name": "Poggle the Lesser",
+          "birthYear": "unknown",
+          "eyeColor": "yellow",
+          "hairColor": "none",
+          "height": 183,
+          "mass": 80,
+          "homeworld": {
+            "id": "cGxhbmV0czoxMQ==",
+            "name": "Geonosis",
+            "population": 100000000000
+          },
+          "species": {
+            "name": "Geonosian",
+            "designation": "sentient",
+            "classification": "insectoid",
+            "id": "c3BlY2llczoyOA==",
+            "averageHeight": 178,
+            "averageLifespan": null,
+            "language": "Geonosian",
+            "homeworld": {
+              "id": "cGxhbmV0czoxMQ==",
+              "name": "Geonosis",
+              "population": 100000000000
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6NQ==",
+                "episodeID": 2,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Attack of the Clones",
+                "releaseDate": "2002-05-16"
+              },
+              {
+                "id": "ZmlsbXM6Ng==",
+                "episodeID": 3,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Revenge of the Sith",
+                "releaseDate": "2005-05-19"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjY0",
+          "name": "Luminara Unduli",
+          "birthYear": "58BBY",
+          "eyeColor": "blue",
+          "hairColor": "black",
+          "height": 170,
+          "mass": 56.2,
+          "homeworld": {
+            "id": "cGxhbmV0czo1MQ==",
+            "name": "Mirial",
+            "population": null
+          },
+          "species": {
+            "name": "Mirialan",
+            "designation": "sentient",
+            "classification": "mammal",
+            "id": "c3BlY2llczoyOQ==",
+            "averageHeight": 180,
+            "averageLifespan": null,
+            "language": "Mirialan",
+            "homeworld": {
+              "id": "cGxhbmV0czo1MQ==",
+              "name": "Mirial",
+              "population": null
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6NQ==",
+                "episodeID": 2,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Attack of the Clones",
+                "releaseDate": "2002-05-16"
+              },
+              {
+                "id": "ZmlsbXM6Ng==",
+                "episodeID": 3,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Revenge of the Sith",
+                "releaseDate": "2005-05-19"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjY1",
+          "name": "Barriss Offee",
+          "birthYear": "40BBY",
+          "eyeColor": "blue",
+          "hairColor": "black",
+          "height": 166,
+          "mass": 50,
+          "homeworld": {
+            "id": "cGxhbmV0czo1MQ==",
+            "name": "Mirial",
+            "population": null
+          },
+          "species": {
+            "name": "Mirialan",
+            "designation": "sentient",
+            "classification": "mammal",
+            "id": "c3BlY2llczoyOQ==",
+            "averageHeight": 180,
+            "averageLifespan": null,
+            "language": "Mirialan",
+            "homeworld": {
+              "id": "cGxhbmV0czo1MQ==",
+              "name": "Mirial",
+              "population": null
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6NQ==",
+                "episodeID": 2,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Attack of the Clones",
+                "releaseDate": "2002-05-16"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjY2",
+          "name": "Dormé",
+          "birthYear": "unknown",
+          "eyeColor": "brown",
+          "hairColor": "brown",
+          "height": 165,
+          "mass": null,
+          "homeworld": {
+            "id": "cGxhbmV0czo4",
+            "name": "Naboo",
+            "population": 4500000000
+          },
+          "species": {
+            "name": "Human",
+            "designation": "sentient",
+            "classification": "mammal",
+            "id": "c3BlY2llczox",
+            "averageHeight": 180,
+            "averageLifespan": 120,
+            "language": "Galactic Basic",
+            "homeworld": {
+              "id": "cGxhbmV0czo5",
+              "name": "Coruscant",
+              "population": 1000000000000
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6NQ==",
+                "episodeID": 2,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Attack of the Clones",
+                "releaseDate": "2002-05-16"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjY3",
+          "name": "Dooku",
+          "birthYear": "102BBY",
+          "eyeColor": "brown",
+          "hairColor": "white",
+          "height": 193,
+          "mass": 80,
+          "homeworld": {
+            "id": "cGxhbmV0czo1Mg==",
+            "name": "Serenno",
+            "population": null
+          },
+          "species": {
+            "name": "Human",
+            "designation": "sentient",
+            "classification": "mammal",
+            "id": "c3BlY2llczox",
+            "averageHeight": 180,
+            "averageLifespan": 120,
+            "language": "Galactic Basic",
+            "homeworld": {
+              "id": "cGxhbmV0czo5",
+              "name": "Coruscant",
+              "population": 1000000000000
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6NQ==",
+                "episodeID": 2,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Attack of the Clones",
+                "releaseDate": "2002-05-16"
+              },
+              {
+                "id": "ZmlsbXM6Ng==",
+                "episodeID": 3,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Revenge of the Sith",
+                "releaseDate": "2005-05-19"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": [
+              {
+                "id": "dmVoaWNsZXM6NTU=",
+                "name": "Flitknot speeder",
+                "crew": "1",
+                "manufacturers": [
+                  "Huppla Pasa Tisc Shipwrights Collective"
+                ],
+                "cargoCapacity": null,
+                "costInCredits": 8000,
+                "vehicleClass": "speeder"
+              }
+            ]
+          }
+        },
+        {
+          "id": "cGVvcGxlOjY4",
+          "name": "Bail Prestor Organa",
+          "birthYear": "67BBY",
+          "eyeColor": "brown",
+          "hairColor": "black",
+          "height": 191,
+          "mass": null,
+          "homeworld": {
+            "id": "cGxhbmV0czoy",
+            "name": "Alderaan",
+            "population": 2000000000
+          },
+          "species": {
+            "name": "Human",
+            "designation": "sentient",
+            "classification": "mammal",
+            "id": "c3BlY2llczox",
+            "averageHeight": 180,
+            "averageLifespan": 120,
+            "language": "Galactic Basic",
+            "homeworld": {
+              "id": "cGxhbmV0czo5",
+              "name": "Coruscant",
+              "population": 1000000000000
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6NQ==",
+                "episodeID": 2,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Attack of the Clones",
+                "releaseDate": "2002-05-16"
+              },
+              {
+                "id": "ZmlsbXM6Ng==",
+                "episodeID": 3,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Revenge of the Sith",
+                "releaseDate": "2005-05-19"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjY5",
+          "name": "Jango Fett",
+          "birthYear": "66BBY",
+          "eyeColor": "brown",
+          "hairColor": "black",
+          "height": 183,
+          "mass": 79,
+          "homeworld": {
+            "id": "cGxhbmV0czo1Mw==",
+            "name": "Concord Dawn",
+            "population": null
+          },
+          "species": {
+            "name": "Human",
+            "designation": "sentient",
+            "classification": "mammal",
+            "id": "c3BlY2llczox",
+            "averageHeight": 180,
+            "averageLifespan": 120,
+            "language": "Galactic Basic",
+            "homeworld": {
+              "id": "cGxhbmV0czo5",
+              "name": "Coruscant",
+              "population": 1000000000000
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6NQ==",
+                "episodeID": 2,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Attack of the Clones",
+                "releaseDate": "2002-05-16"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjcw",
+          "name": "Zam Wesell",
+          "birthYear": "unknown",
+          "eyeColor": "yellow",
+          "hairColor": "blonde",
+          "height": 168,
+          "mass": 55,
+          "homeworld": {
+            "id": "cGxhbmV0czo1NA==",
+            "name": "Zolan",
+            "population": null
+          },
+          "species": {
+            "name": "Clawdite",
+            "designation": "sentient",
+            "classification": "reptilian",
+            "id": "c3BlY2llczozMA==",
+            "averageHeight": 180,
+            "averageLifespan": 70,
+            "language": "Clawdite",
+            "homeworld": {
+              "id": "cGxhbmV0czo1NA==",
+              "name": "Zolan",
+              "population": null
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6NQ==",
+                "episodeID": 2,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Attack of the Clones",
+                "releaseDate": "2002-05-16"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": [
+              {
+                "id": "dmVoaWNsZXM6NDU=",
+                "name": "Koro-2 Exodrive airspeeder",
+                "crew": "1",
+                "manufacturers": [
+                  "Desler Gizh Outworld Mobility Corporation"
+                ],
+                "cargoCapacity": 80,
+                "costInCredits": null,
+                "vehicleClass": "airspeeder"
+              }
+            ]
+          }
+        },
+        {
+          "id": "cGVvcGxlOjcx",
+          "name": "Dexter Jettster",
+          "birthYear": "unknown",
+          "eyeColor": "yellow",
+          "hairColor": "none",
+          "height": 198,
+          "mass": 102,
+          "homeworld": {
+            "id": "cGxhbmV0czo1NQ==",
+            "name": "Ojom",
+            "population": 500000000
+          },
+          "species": {
+            "name": "Besalisk",
+            "designation": "sentient",
+            "classification": "amphibian",
+            "id": "c3BlY2llczozMQ==",
+            "averageHeight": 178,
+            "averageLifespan": 75,
+            "language": "besalisk",
+            "homeworld": {
+              "id": "cGxhbmV0czo1NQ==",
+              "name": "Ojom",
+              "population": 500000000
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6NQ==",
+                "episodeID": 2,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Attack of the Clones",
+                "releaseDate": "2002-05-16"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjcy",
+          "name": "Lama Su",
+          "birthYear": "unknown",
+          "eyeColor": "black",
+          "hairColor": "none",
+          "height": 229,
+          "mass": 88,
+          "homeworld": {
+            "id": "cGxhbmV0czoxMA==",
+            "name": "Kamino",
+            "population": 1000000000
+          },
+          "species": {
+            "name": "Kaminoan",
+            "designation": "sentient",
+            "classification": "amphibian",
+            "id": "c3BlY2llczozMg==",
+            "averageHeight": 220,
+            "averageLifespan": 80,
+            "language": "Kaminoan",
+            "homeworld": {
+              "id": "cGxhbmV0czoxMA==",
+              "name": "Kamino",
+              "population": 1000000000
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6NQ==",
+                "episodeID": 2,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Attack of the Clones",
+                "releaseDate": "2002-05-16"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjcz",
+          "name": "Taun We",
+          "birthYear": "unknown",
+          "eyeColor": "black",
+          "hairColor": "none",
+          "height": 213,
+          "mass": null,
+          "homeworld": {
+            "id": "cGxhbmV0czoxMA==",
+            "name": "Kamino",
+            "population": 1000000000
+          },
+          "species": {
+            "name": "Kaminoan",
+            "designation": "sentient",
+            "classification": "amphibian",
+            "id": "c3BlY2llczozMg==",
+            "averageHeight": 220,
+            "averageLifespan": 80,
+            "language": "Kaminoan",
+            "homeworld": {
+              "id": "cGxhbmV0czoxMA==",
+              "name": "Kamino",
+              "population": 1000000000
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6NQ==",
+                "episodeID": 2,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Attack of the Clones",
+                "releaseDate": "2002-05-16"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjc0",
+          "name": "Jocasta Nu",
+          "birthYear": "unknown",
+          "eyeColor": "blue",
+          "hairColor": "white",
+          "height": 167,
+          "mass": null,
+          "homeworld": {
+            "id": "cGxhbmV0czo5",
+            "name": "Coruscant",
+            "population": 1000000000000
+          },
+          "species": {
+            "name": "Human",
+            "designation": "sentient",
+            "classification": "mammal",
+            "id": "c3BlY2llczox",
+            "averageHeight": 180,
+            "averageLifespan": 120,
+            "language": "Galactic Basic",
+            "homeworld": {
+              "id": "cGxhbmV0czo5",
+              "name": "Coruscant",
+              "population": 1000000000000
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6NQ==",
+                "episodeID": 2,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Attack of the Clones",
+                "releaseDate": "2002-05-16"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjc1",
+          "name": "R4-P17",
+          "birthYear": "unknown",
+          "eyeColor": "red, blue",
+          "hairColor": "none",
+          "height": 96,
+          "mass": null,
+          "homeworld": {
+            "id": "cGxhbmV0czoyOA==",
+            "name": "unknown",
+            "population": null
+          },
+          "species": null,
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6NQ==",
+                "episodeID": 2,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Attack of the Clones",
+                "releaseDate": "2002-05-16"
+              },
+              {
+                "id": "ZmlsbXM6Ng==",
+                "episodeID": 3,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Revenge of the Sith",
+                "releaseDate": "2005-05-19"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjc2",
+          "name": "Wat Tambor",
+          "birthYear": "unknown",
+          "eyeColor": "unknown",
+          "hairColor": "none",
+          "height": 193,
+          "mass": 48,
+          "homeworld": {
+            "id": "cGxhbmV0czo1Ng==",
+            "name": "Skako",
+            "population": 500000000000
+          },
+          "species": {
+            "name": "Skakoan",
+            "designation": "sentient",
+            "classification": "mammal",
+            "id": "c3BlY2llczozMw==",
+            "averageHeight": null,
+            "averageLifespan": null,
+            "language": "Skakoan",
+            "homeworld": {
+              "id": "cGxhbmV0czo1Ng==",
+              "name": "Skako",
+              "population": 500000000000
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6NQ==",
+                "episodeID": 2,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Attack of the Clones",
+                "releaseDate": "2002-05-16"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjc3",
+          "name": "San Hill",
+          "birthYear": "unknown",
+          "eyeColor": "gold",
+          "hairColor": "none",
+          "height": 191,
+          "mass": null,
+          "homeworld": {
+            "id": "cGxhbmV0czo1Nw==",
+            "name": "Muunilinst",
+            "population": 5000000000
+          },
+          "species": {
+            "name": "Muun",
+            "designation": "sentient",
+            "classification": "mammal",
+            "id": "c3BlY2llczozNA==",
+            "averageHeight": 190,
+            "averageLifespan": 100,
+            "language": "Muun",
+            "homeworld": {
+              "id": "cGxhbmV0czo1Nw==",
+              "name": "Muunilinst",
+              "population": 5000000000
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6NQ==",
+                "episodeID": 2,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Attack of the Clones",
+                "releaseDate": "2002-05-16"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjc4",
+          "name": "Shaak Ti",
+          "birthYear": "unknown",
+          "eyeColor": "black",
+          "hairColor": "none",
+          "height": 178,
+          "mass": 57,
+          "homeworld": {
+            "id": "cGxhbmV0czo1OA==",
+            "name": "Shili",
+            "population": null
+          },
+          "species": {
+            "name": "Togruta",
+            "designation": "sentient",
+            "classification": "mammal",
+            "id": "c3BlY2llczozNQ==",
+            "averageHeight": 180,
+            "averageLifespan": 94,
+            "language": "Togruti",
+            "homeworld": {
+              "id": "cGxhbmV0czo1OA==",
+              "name": "Shili",
+              "population": null
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6NQ==",
+                "episodeID": 2,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Attack of the Clones",
+                "releaseDate": "2002-05-16"
+              },
+              {
+                "id": "ZmlsbXM6Ng==",
+                "episodeID": 3,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Revenge of the Sith",
+                "releaseDate": "2005-05-19"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjc5",
+          "name": "Grievous",
+          "birthYear": "unknown",
+          "eyeColor": "green, yellow",
+          "hairColor": "none",
+          "height": 216,
+          "mass": 159,
+          "homeworld": {
+            "id": "cGxhbmV0czo1OQ==",
+            "name": "Kalee",
+            "population": 4000000000
+          },
+          "species": {
+            "name": "Kaleesh",
+            "designation": "sentient",
+            "classification": "reptile",
+            "id": "c3BlY2llczozNg==",
+            "averageHeight": 170,
+            "averageLifespan": 80,
+            "language": "Kaleesh",
+            "homeworld": {
+              "id": "cGxhbmV0czo1OQ==",
+              "name": "Kalee",
+              "population": 4000000000
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6Ng==",
+                "episodeID": 3,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Revenge of the Sith",
+                "releaseDate": "2005-05-19"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": [
+              {
+                "id": "dmVoaWNsZXM6NjA=",
+                "name": "Tsmeu-6 personal wheel bike",
+                "crew": "1",
+                "manufacturers": [
+                  "Z-Gomot Ternbuell Guppat Corporation"
+                ],
+                "cargoCapacity": 10,
+                "costInCredits": 15000,
+                "vehicleClass": "wheeled walker"
+              }
+            ]
+          }
+        },
+        {
+          "id": "cGVvcGxlOjgw",
+          "name": "Tarfful",
+          "birthYear": "unknown",
+          "eyeColor": "blue",
+          "hairColor": "brown",
+          "height": 234,
+          "mass": 136,
+          "homeworld": {
+            "id": "cGxhbmV0czoxNA==",
+            "name": "Kashyyyk",
+            "population": 45000000
+          },
+          "species": {
+            "name": "Wookiee",
+            "designation": "sentient",
+            "classification": "mammal",
+            "id": "c3BlY2llczoz",
+            "averageHeight": 210,
+            "averageLifespan": 400,
+            "language": "Shyriiwook",
+            "homeworld": {
+              "id": "cGxhbmV0czoxNA==",
+              "name": "Kashyyyk",
+              "population": 45000000
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6Ng==",
+                "episodeID": 3,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Revenge of the Sith",
+                "releaseDate": "2005-05-19"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjgx",
+          "name": "Raymus Antilles",
+          "birthYear": "unknown",
+          "eyeColor": "brown",
+          "hairColor": "brown",
+          "height": 188,
+          "mass": 79,
+          "homeworld": {
+            "id": "cGxhbmV0czoy",
+            "name": "Alderaan",
+            "population": 2000000000
+          },
+          "species": {
+            "name": "Human",
+            "designation": "sentient",
+            "classification": "mammal",
+            "id": "c3BlY2llczox",
+            "averageHeight": 180,
+            "averageLifespan": 120,
+            "language": "Galactic Basic",
+            "homeworld": {
+              "id": "cGxhbmV0czo5",
+              "name": "Coruscant",
+              "population": 1000000000000
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6MQ==",
+                "episodeID": 4,
+                "director": "George Lucas",
+                "producers": [
+                  "Gary Kurtz",
+                  "Rick McCallum"
+                ],
+                "title": "A New Hope",
+                "releaseDate": "1977-05-25"
+              },
+              {
+                "id": "ZmlsbXM6Ng==",
+                "episodeID": 3,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Revenge of the Sith",
+                "releaseDate": "2005-05-19"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjgy",
+          "name": "Sly Moore",
+          "birthYear": "unknown",
+          "eyeColor": "white",
+          "hairColor": "none",
+          "height": 178,
+          "mass": 48,
+          "homeworld": {
+            "id": "cGxhbmV0czo2MA==",
+            "name": "Umbara",
+            "population": null
+          },
+          "species": null,
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6NQ==",
+                "episodeID": 2,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Attack of the Clones",
+                "releaseDate": "2002-05-16"
+              },
+              {
+                "id": "ZmlsbXM6Ng==",
+                "episodeID": 3,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Revenge of the Sith",
+                "releaseDate": "2005-05-19"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjgz",
+          "name": "Tion Medon",
+          "birthYear": "unknown",
+          "eyeColor": "black",
+          "hairColor": "none",
+          "height": 206,
+          "mass": 80,
+          "homeworld": {
+            "id": "cGxhbmV0czoxMg==",
+            "name": "Utapau",
+            "population": 95000000
+          },
+          "species": {
+            "name": "Pau'an",
+            "designation": "sentient",
+            "classification": "mammal",
+            "id": "c3BlY2llczozNw==",
+            "averageHeight": 190,
+            "averageLifespan": 700,
+            "language": "Utapese",
+            "homeworld": {
+              "id": "cGxhbmV0czoxMg==",
+              "name": "Utapau",
+              "population": 95000000
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6Ng==",
+                "episodeID": 3,
+                "director": "George Lucas",
+                "producers": [
+                  "Rick McCallum"
+                ],
+                "title": "Revenge of the Sith",
+                "releaseDate": "2005-05-19"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjg0",
+          "name": "Finn",
+          "birthYear": "unknown",
+          "eyeColor": "dark",
+          "hairColor": "black",
+          "height": null,
+          "mass": null,
+          "homeworld": {
+            "id": "cGxhbmV0czoyOA==",
+            "name": "unknown",
+            "population": null
+          },
+          "species": {
+            "name": "Human",
+            "designation": "sentient",
+            "classification": "mammal",
+            "id": "c3BlY2llczox",
+            "averageHeight": 180,
+            "averageLifespan": 120,
+            "language": "Galactic Basic",
+            "homeworld": {
+              "id": "cGxhbmV0czo5",
+              "name": "Coruscant",
+              "population": 1000000000000
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6Nw==",
+                "episodeID": 7,
+                "director": "J. J. Abrams",
+                "producers": [
+                  "Kathleen Kennedy",
+                  "J. J. Abrams",
+                  "Bryan Burk"
+                ],
+                "title": "The Force Awakens",
+                "releaseDate": "2015-12-11"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjg1",
+          "name": "Rey",
+          "birthYear": "unknown",
+          "eyeColor": "hazel",
+          "hairColor": "brown",
+          "height": null,
+          "mass": null,
+          "homeworld": {
+            "id": "cGxhbmV0czoyOA==",
+            "name": "unknown",
+            "population": null
+          },
+          "species": {
+            "name": "Human",
+            "designation": "sentient",
+            "classification": "mammal",
+            "id": "c3BlY2llczox",
+            "averageHeight": 180,
+            "averageLifespan": 120,
+            "language": "Galactic Basic",
+            "homeworld": {
+              "id": "cGxhbmV0czo5",
+              "name": "Coruscant",
+              "population": 1000000000000
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6Nw==",
+                "episodeID": 7,
+                "director": "J. J. Abrams",
+                "producers": [
+                  "Kathleen Kennedy",
+                  "J. J. Abrams",
+                  "Bryan Burk"
+                ],
+                "title": "The Force Awakens",
+                "releaseDate": "2015-12-11"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjg2",
+          "name": "Poe Dameron",
+          "birthYear": "unknown",
+          "eyeColor": "brown",
+          "hairColor": "brown",
+          "height": null,
+          "mass": null,
+          "homeworld": {
+            "id": "cGxhbmV0czoyOA==",
+            "name": "unknown",
+            "population": null
+          },
+          "species": {
+            "name": "Human",
+            "designation": "sentient",
+            "classification": "mammal",
+            "id": "c3BlY2llczox",
+            "averageHeight": 180,
+            "averageLifespan": 120,
+            "language": "Galactic Basic",
+            "homeworld": {
+              "id": "cGxhbmV0czo5",
+              "name": "Coruscant",
+              "population": 1000000000000
+            }
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6Nw==",
+                "episodeID": 7,
+                "director": "J. J. Abrams",
+                "producers": [
+                  "Kathleen Kennedy",
+                  "J. J. Abrams",
+                  "Bryan Burk"
+                ],
+                "title": "The Force Awakens",
+                "releaseDate": "2015-12-11"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjg3",
+          "name": "BB8",
+          "birthYear": "unknown",
+          "eyeColor": "black",
+          "hairColor": "none",
+          "height": null,
+          "mass": null,
+          "homeworld": {
+            "id": "cGxhbmV0czoyOA==",
+            "name": "unknown",
+            "population": null
+          },
+          "species": {
+            "name": "Droid",
+            "designation": "sentient",
+            "classification": "artificial",
+            "id": "c3BlY2llczoy",
+            "averageHeight": null,
+            "averageLifespan": null,
+            "language": "n/a",
+            "homeworld": null
+          },
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6Nw==",
+                "episodeID": 7,
+                "director": "J. J. Abrams",
+                "producers": [
+                  "Kathleen Kennedy",
+                  "J. J. Abrams",
+                  "Bryan Burk"
+                ],
+                "title": "The Force Awakens",
+                "releaseDate": "2015-12-11"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        },
+        {
+          "id": "cGVvcGxlOjg4",
+          "name": "Captain Phasma",
+          "birthYear": "unknown",
+          "eyeColor": "unknown",
+          "hairColor": "unknown",
+          "height": null,
+          "mass": null,
+          "homeworld": {
+            "id": "cGxhbmV0czoyOA==",
+            "name": "unknown",
+            "population": null
+          },
+          "species": null,
+          "filmConnection": {
+            "films": [
+              {
+                "id": "ZmlsbXM6Nw==",
+                "episodeID": 7,
+                "director": "J. J. Abrams",
+                "producers": [
+                  "Kathleen Kennedy",
+                  "J. J. Abrams",
+                  "Bryan Burk"
+                ],
+                "title": "The Force Awakens",
+                "releaseDate": "2015-12-11"
+              }
+            ]
+          },
+          "vehicleConnection": {
+            "vehicles": []
+          }
+        }
+      ]
+    }
+  }
+}

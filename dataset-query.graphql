@@ -1,0 +1,53 @@
+{
+  allPeople {
+    people {
+      id
+      name
+      birthYear
+      eyeColor
+      hairColor
+      height
+      mass
+      homeworld {
+        id
+        name
+        population
+      }
+      species {
+        name
+        designation
+        classification
+        id
+        averageHeight
+        averageLifespan
+        language
+        homeworld {
+          id
+          name
+          population
+        }
+      }
+      filmConnection {
+        films {
+          id
+          episodeID
+          director
+          producers
+          title
+          releaseDate
+        }
+      }
+      vehicleConnection {
+        vehicles {
+          id
+          name
+          crew
+          manufacturers
+          cargoCapacity
+          costInCredits
+          vehicleClass
+        }
+      }
+    }
+  }
+}
